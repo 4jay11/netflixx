@@ -2,7 +2,14 @@
 
  - Create React app
  - Configured Tailwind css
- - Github
+ - Header
+ - Routing
+ - Login Form
+ - Form Validation
+ - useRef and useState Hook
+ - Firebase Setup
+ - Deploying app to production
+ - 
 
 
 # Features
